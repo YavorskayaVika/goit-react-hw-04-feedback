@@ -1,4 +1,4 @@
-import { FeedBack } from './FeedBack/FeedBackOptions';
+import { FeedBack } from './Feedback/Feedback';
 import React, { useState } from 'react';
 import { Statistics } from './Statistics/Statistics';
 import { Section } from './Section/Section';
